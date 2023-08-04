@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/demo-website/static/css/main.f2b04e4d.css",
+    "main.js": "/demo-website/static/js/main.ac88d6a9.js",
+    "static/media/App.jpg": "/demo-website/static/media/App.b55c1ad6e05349a9e6cf.jpg",
+    "static/media/hero-img.png": "/demo-website/static/media/hero-img.53f1b5467e5095dc4126.png",
+    "static/media/Marketing.jpg": "/demo-website/static/media/Marketing.710155af03c611cc68be.jpg",
+    "static/media/img2.png": "/demo-website/static/media/img2.0e97b3bb6d561bc16fc6.png",
+    "static/media/Software.jpg": "/demo-website/static/media/Software.6d26971342d2ad757d97.jpg",
+    "static/media/Digital.jpg": "/demo-website/static/media/Digital.12199e440f61c5edb15b.jpg",
+    "static/media/web.jpg": "/demo-website/static/media/web.358f0414c7855d19f36b.jpg",
+    "static/media/Anroid.jpg": "/demo-website/static/media/Anroid.55a063e128eb499930fd.jpg",
+    "index.html": "/demo-website/index.html",
+    "main.f2b04e4d.css.map": "/demo-website/static/css/main.f2b04e4d.css.map",
+    "main.ac88d6a9.js.map": "/demo-website/static/js/main.ac88d6a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2b04e4d.css",
+    "static/js/main.ac88d6a9.js"
+  ]
+}
